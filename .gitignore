@@ -1,0 +1,5 @@
+.idea
+.vscode
+node_modules
+server/node_modules
+dollar/node_modules
